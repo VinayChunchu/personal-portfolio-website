@@ -26,7 +26,8 @@
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
     hsl(240, 1%, 25%) 3%, 
-    hsl(0, 0%, 19%) 97%
+    /* Photo background */
+    hsl(0, 98%, 49%) 97%
   );
   --bg-gradient-jet: linear-gradient(
     to bottom right, 
